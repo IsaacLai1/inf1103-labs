@@ -44,6 +44,7 @@ while True:
         break
 
     elif entry is None:
+        print("Invalid input. Please enter a valid stock quantity or type 'quit' to exit.")    #if the user enters an invalid input, the program prints an error message and increments the failed attempts counter
         varNumberofFailedEntries = varNumberofFailedEntries + 1
         
 
