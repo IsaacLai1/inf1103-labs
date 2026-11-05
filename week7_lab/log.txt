@@ -1,0 +1,5 @@
+﻿commit 0eddb4d4b816d3335bc8287c5fb8dbf03b854dcd
+Author: Isaac Lai <2605772@sit.singaporetech.edu.sg>
+Date:   Fri Nov 6 00:22:54 2026 +0800
+
+    Lab 7: inheritance, overriding, abstract Product, CanBeShipped interface
